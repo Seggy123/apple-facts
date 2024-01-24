@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Comfortaa:wght@300&display=swap');
+
+/* PAGE COLOR ---------------------- */
+body {
+    background-color: black;
+  }
+  body {
+    color: white;
+  }
+/* NAVBAR COLOR----------------------------- */
+  #nav  {
+    background-color:  rgb(2, 2, 24);
+}
+.navbar-brand {
+    color: #FBEDF9;
+}
+.nav-link {
+    color: #FBEDF9;
+}
+h1 {
+    color: rgb(255, 255, 255);
+}
+/* FONTS ------------------------- */
+h1 {
+  font-family: 'Comfortaa', sans-serif;
+}
+h4 {
+  font-family: 'Comfortaa', sans-serif;
+}
+
+/* CARD COLOR---------------------------- */
+
+.card {
+  background-color: #F5F5F7;
+}
+
+/* TEXT COLOR */
+
+p {
+  color: #233738;
+}
